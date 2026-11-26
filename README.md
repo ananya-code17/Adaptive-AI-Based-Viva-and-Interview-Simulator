@@ -160,7 +160,3 @@ The backend communicates with Ollama to generate questions and expected key poin
 B.Tech Computer Science Engineering – Data Science
 
 UPES, Dehradun
-
-## License
-
-This project is developed for academic and educational purposes.
